@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "git": "git add . && git commit -am",
+    "maven": "mvn clean package -Dmaven.test.skip=true",
+    "chmod": "chmod a+x *.sh"
+  }
+}
